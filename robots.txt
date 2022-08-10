@@ -1,2 +1,3 @@
-User-agent: SiteCheckerBotCrawler
-Allow: /
+Sitemap: https://lapanthere.yanel.be/sitemap.xml
+User-agent: *
+Disallow:
